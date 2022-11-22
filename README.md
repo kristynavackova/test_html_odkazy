@@ -1,4 +1,4 @@
-# Oprava testu na odkazy mezi soubory
+# Test na odkazy mezi soubory
 
 ## Zadání
 
